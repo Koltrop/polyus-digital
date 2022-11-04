@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'OPTIAuvantGothic';
+    src: url('/font/OPTIAuvantGothic-Medium.eot');
+    src: url('/font/OPTIAuvantGothic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/font/OPTIAuvantGothic-Medium.woff2') format('woff2'),
+        url('/font/OPTIAuvantGothic-Medium.woff') format('woff'),
+        url('/font/OPTIAuvantGothic-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/font/Stem-Regular.eot');
+    src: url('/font/Stem-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/font/Stem-Regular.woff2') format('woff2'),
+        url('/font/Stem-Regular.woff') format('woff'),
+        url('/font/Stem-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
